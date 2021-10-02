@@ -1,3 +1,6 @@
 Git 練習用
 
 基本的なバージョニングを学びます
+
+- git add
+- git commit
