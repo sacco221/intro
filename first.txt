@@ -4,3 +4,4 @@ Git 練習用
 
 - git add
 - git commit
+- git remove
